@@ -12,15 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-That is a powerful and inspiring story\! To make your profile look beautiful and professional, we will use effective Markdown formatting, clear structure, and expressive emojis to condense all that information into a highly readable and engaging `README.md`.
-
-Here is a beautiful and comprehensive file based on your input:
-
------
-
-## 👨‍💻 My Profile `README.md`
-
-```markdown
 # 👋 Hi there! I'm Akash
 
 ### 💡 Self-Taught Full-Stack Developer & Perpetual Learner
@@ -61,4 +52,3 @@ I have dedicated myself to mastering the JavaScript ecosystem and its modern too
 ## 🌟 My Commitment
 
 From knowing only HTML, CSS, and basic JS a short while ago, I now have the ability to develop fully functional, complex applications. Everything I have learned has been through **doing**—experimentation, practice projects, and self-guided exploration.
-```
