@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there! I'm Akash
 
+> **"The work is for myself. The code is a conversation between my mind and the problem; the documentation is for the world."**
+
 ### 💡 Self-Taught Full-Stack Developer & Perpetual Learner
 
 I am a Bachelor of Computer Science student driven by curiosity and a relentless focus on growth. My journey is defined by **consistency, discipline, and not giving up**. I am not just learning; I am actively preparing myself to align with the future of AI and software evolution.
