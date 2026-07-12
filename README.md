@@ -1,56 +1,44 @@
 <!--
 **Men6d656e/Men6d656e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 # 👋 Hi there! I'm Akash
 
 > **"The work is for myself. The code is a conversation between my mind and the problem; the documentation is for the world."**
 
-### 💡 Self-Taught Full-Stack Developer & Perpetual Learner
+### 💻 Full-Stack & Web3 Engineer | Specializing in Blockchain Finance
 
-I am a Bachelor of Computer Science student driven by curiosity and a relentless focus on growth. My journey is defined by **consistency, discipline, and not giving up**. I am not just learning; I am actively preparing myself to align with the future of AI and software evolution.
+I am a Computer Science student focused on building secure, high-performance web systems at the intersection of robust Web2 architecture and decentralized finance (DeFi). My journey is defined by **consistency, discipline, and building production-grade software** through hands-on experimentation.
 
 ---
 
 ## 🚀 Mindset & Goals
 
-My passion lies in working on **large and complex systems**. I believe my ability to self-learn, explore, and quickly **adopt new technologies** allows me to build robust, **enterprise-level applications** from start to finish, despite my relatively short professional timeline.
+My passion lies in architecting **high-throughput and cryptographic web applications**. I focus on designing type-safe architectures that eliminate operational friction, enforce absolute data integrity, and bring scalable digital assets to life. 
 
-My ultimate aspiration is to become a true **Software Engineer**, with a long-term goal of understanding and contributing to **OS-level software** and potentially building operating systems.
+My long-term engineering commitment is to master low-level core system environments while delivering highly optimized, secure smart contracts today.
 
-## 🛠️ Conquering the JS Ecosystem
+## 🛠️ Technical Ecosystem & Stack
 
-I have dedicated myself to mastering the JavaScript ecosystem and its modern tools. I prefer building **type-safe systems** and am constantly exploring the best practices in development.
+I combine a comprehensive Web2 full-stack framework with rigorous Web3 implementation workflows to build end-to-end decentralized financial tools.
 
 ### My Core Tech Stack:
 
 | Category | Technologies | Focus Areas |
 | :--- | :--- | :--- |
-| **Language** | **JavaScript, TypeScript** | Type safety, Modern JS features |
-| **Front-end** | **Next.js** | Server-Side Rendering, High Performance |
-| **Back-end** | **Node.js, Express** | RESTful APIs, System Architecture |
-| **Databases** | **MongoDB, Neon DB** | Data persistence and scaling |
-| **ORM / Tools** | **Prisma** (Primary), Drizzle, Convex (Real-time DB) | Data modeling, Type safety, Real-time systems |
+| **Blockchain** | **Solidity, EVM Mechanics, OpenZeppelin** | Smart Contract Engineering, Security Patterns |
+| **Web3 Tooling** | **Foundry Suite (Forge, Anvil, Cast), Viem, Ethers.js** | Compilation, Gas Optimization, Chain Integration |
+| **Languages** | **TypeScript, JavaScript** | Type Safety, Strict Backend & Interface Typing |
+| **Frameworks** | **Next.js (T3 Stack), Node.js, Express** | Server-Side Rendering, Financial APIs, Performant UI |
+| **Data Layers** | **PostgreSQL, MongoDB, Prisma ORM, Drizzle** | Schema Modeling, Scalable Persistence, Relational Design |
 
-### 🧠 Currently Learning & Exploring:
+### 🧠 Active Research & Engineering Focus:
 
-* **tRPC** for end-to-end type safety in full-stack applications.
-* **Monorepos** for scalable project organization.
-* **Inngest** for background job processing.
-* The fundamentals of other systems languages like **Python, C++, Java, Go, and Rust**.
+* **DeFi Infrastructure:** Deployed token vesting layers, decentralized dashboard systems, and automated factory patterns.
+* **On-Chain Reliability:** Implementing gas-optimized mechanics and strict smart contract security validation.
+* **Asynchronous Integration:** Utilizing toolsets like Inngest and background workers for resilient event-driven systems.
 
 ---
 
-## 🌟 My Commitment
+## 🌟 Professional Commitments
 
-From knowing only HTML, CSS, and basic JS a short while ago, I now have the ability to develop fully functional, complex applications. Everything I have learned has been through **doing**—experimentation, practice projects, and self-guided exploration.
+Everything I build is forged through **doing**—writing clean code, breaking down protocol documentation, running local development networks, and shipping functional systems. I build software that performs cleanly and scales securely.
